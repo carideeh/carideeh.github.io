@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -208,21 +208,6 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-2",
-          "_params": {
-            "googleMap": {
-              "address": "嘉義那個那個",
-              "placeId": "ChIJl2wLjDOUbjQROWBI-CpTtZ8",
-              "state": "ok",
-              "stateDetails": ""
             }
           }
         },
