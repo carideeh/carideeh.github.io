@@ -414,3 +414,10 @@ h6,
 #features1-1 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#msg-box6-k .mbr-section-title,
+#msg-box6-k .lead p {
+  color: #fff;
+}
+#msg-box6-k H3 {
+  font-size: 16px;
+}
